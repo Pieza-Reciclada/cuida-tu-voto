@@ -1,10 +1,10 @@
 {
   "titulo": "Cuida tu voto Bolivia - Control Electoral",
-  "inicio": "Regresar",
+  "inicio": "Retornar",
   "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
-      "titulo": "Elecciones 2020",
+      "titulo": "Elecciones generales 2020",
       "subtitulo": "Conoce quienes son sus protagonistas",
       "botonMas": {
         "titulo": "Clic aquí para aprender más",
@@ -202,7 +202,7 @@
       }
     },
     "aprende-mas": {
-      "titulo": "Elecciones 2020",
+      "titulo": "Elecciones generales 2020",
       "subtitulo": "Aprende sobre un tema de tu interés",
       "botonMas": {
         "titulo": "Clic aquí para conocer a los protagonistas",
@@ -538,6 +538,6 @@
     "403": "Sin permisos",
     "404": "Página no encontrada",
     "500": "Ha ocurrido un error",
-    "home": "Volver a la página principal"
+    "home": "Volver a la página inicial"
   }
 }
