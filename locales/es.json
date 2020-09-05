@@ -1,75 +1,65 @@
 {
-  "titulo": "Cuida tu voto Bolivia - Control Electoral",
-  "inicio": "Retornar",
+  "titulo": "Cuida tu voto Bolivia",
+  "inicio": "Regresar",
   "todo": "Todo lo que necesitas saber sobre",
   "categorias": {
     "protagonistas": {
       "titulo": "Elecciones generales 2020",
-      "subtitulo": "Conoce quienes son sus protagonistas",
+      "subtitulo": "Operadores de control electoral",
       "botonMas": {
         "titulo": "Clic aquí para aprender más",
         "enlace": "aprende-mas"
       },
       "items": {
         "item1": {
-          "imagen": "elector.png",
-          "titulo": "Votantes",
+          "imagen": "delegado.png",
+          "titulo": "Delegados de mesa",
           "enlace": "elector",
           "fichas": {
             "item1": {
-              "titulo": "¿Quienes son los/as votantes?",
-              "imagen": "ficha1-elector.jpg",
-              "descripcion": "Los/as votantes somos todos/as los/as bolivianos/as mayores de 18 años inscritos/as y habilitados/as en el padrón electoral, residentes en territorio nacional o extranjero, que mediante el voto ejercemos nuestro derecho democrático de elegir a nuestros/as gobernantes. {0} En Bolivia, el próximo domingo 18 de octubre de 2020, impostergablemente, celebraremos elecciones en tiempos de pandemia. Para participar en esta fiesta democrática de forma segura, debemos conocer nuestros derechos, obligaciones y toda la información detallada en este recorrido. {0} Recuerda, tu voto cuenta. ¡Comencemos!{0} *Referencias: CPE art. 26; Ley 026 arts. 4, 43, 45."
+              "titulo": "¿Qué misión tienes como delegado/a de mesa?",
+              "imagen": "ficha1-delegado.jpg",
+              "descripcion": "Como delegado/a de mesa te encargarás de de cuidar que se respeten los votos a favor de nuestro binomio presidencial Lucho - David. Tu presencia el día de la elección es imprescindible; de ti depende el éxito o fracaso del proceso de recuperación de la Democracia.{0} Por eso, debes REVISAR CONTINUAMENTE esta guía, a fin de que conozcas a detalle los derechos y deberes que tienes como delegado/a de mesa por el MAS-IPSP."
             },
             "item2": {
-              "titulo": "¿Debo estar inscrito/a para votar?",
-              "imagen": "ficha2-elector.jpg",
-              "descripcion": "Para participar en las elecciones y votar debes estar inscrito/a en el padrón electoral. En base al domicilio registrado en el padrón, el OEP nos asigna una circunscripción, recinto y mesa de votación. Todo/as nos debemos empadronar de forma personal por única vez cuando cumplimos 18 años y actualizar este registro en caso de cambiar de domicilio. {0} Para las elecciones 2020 la actualización de domicilios en el padrón y el empadronamiento de nuevos/as votantes que cumplan 18 años hasta el 18 de octubre de 2020 (día de la elección) se cierra el 28 de agosto. Los puntos de empadronamiento habilitados los encuentras {1}. Estos procesos de registro se desarrollan cumpliendo protocolos de bioseguridad.{0} *Referencias: Ley 018 arts. 74, 75, 78; Ley 026 art. 99.",
-              "link": {
-                "texto": "aquí",
-                "url": "https://www.oep.org.bo/direcciones-empadronamiento-2020/"
-              }
+              "titulo": "¿Qué garantías tienes como delegado/a de mesa?",
+              "imagen": "ficha2-delegado.jpg",
+              "descripcion": "Como delegado/a de mesa del MAS-IPSP gozas de las siguientes garantías:{0} 1) Intervenir en todas las fases del proceso electoral, para preservar los derechos y garantías de nuestra organización política (Art. 151 Ley 026).{0} 2) No estás obligado/a a obedecer órdenes que te impidan participar con libertad e independencia en todos los actos y procedimientos electorales en los que debes intervenir, en el marco de la ley.{0} 3) No puedes ser privado de tu libertad por ningún motivo, con excepción de comprobarse en ese momento delito flagrante o mandamiento emitido por autoridad electoral competente."
             },
             "item3": {
-              "titulo": "¿Cómo sé si estoy habilitado/a para votar?",
-              "imagen": "ficha3-elector.jpg",
-              "descripcion": "Para poder votar debes estar empadronado/a y además no tener observaciones en tu registro que sean causa de inhabilitación. Documentos de identidad observados, inasistencia a procesos electorales anteriores, pérdida de nacionalidad, entre otras, son causas de inhabilitación.{0} Si estás empadronado/a, debes hacer clic {1}, ingresar tu número de documento y fecha de nacimiento, verificar si estás habilitado/a para votar en las elecciones 2020 y averiguar tu recinto y mesa de sufragio. Si estuvieras inhabilitado/a puedes descargar, llenar y enviar tu formulario de reclamo desde ese mismo portal hasta el 8 de septiembre.{0} Podrás verificar tu recinto y mesa de sufragio mediante la vía antes descrita a partir del 11 de octubre; por protección sanitaria, para estas elecciones la cantidad de recintos de votación se incrementará a fin de reducir la concentración de personas.{0} *Referencias: Ley 018 art. 77.",
-              "link": {
-                "texto": "aquí",
-                "url": "https://yoparticipo.oep.org.bo/"
-              }
+              "titulo": "¿Qué debes hacer antes de la votación?",
+              "imagen": "ficha3-delegado.jpg",
+              "descripcion": "El 18 de octubre antes de iniciar la votación, como delegado/a de mesa debes:{0} 1) Presentarte a las 7:00 am, ante el jefe de recinto para recoger tu credencial, hoja de control  y material de bioseguridad.{0} 2) Presentarte ante el presidente de tu mesa de sufragio asignada, identificarte como delegado/a del MAS-IPSP y solicitar tu acreditación.{0} 3) SÓLO SI hasta las 9:00 am no existiera el quórum mínimo de 3 jurados(1 presidente, 1 secretario y 1 vocal) para abrir la mesa, controlar que el juez o notario elija por sorteo nuevos jurados entre los electores inscritos y presentes (Art.157 Ley 026).{0} 4) Verificar que el material electoral de la mesa incluya: el acta electoral, papeletas de votación, certificados de sufragio, lista de votantes, ánfora, número de mesa, sellos, material de escritorio, sobres, tinta indeleble y material de bioseguridad para los jurados.{0} 5) Verificar que el jurado secretario registre en el acta electoral la hora de apertura de la mesa, nombres y cédula de identidad (CI) de al menos tres jurados electorales con sus firmas y huellas dactilares, y nombres y CI de los delegados de partido presentes con sus firmas y huellas dactilares (la ausencia de algún delegado se debe hacer constar en el acta).{0} 6) Antes de iniciar la votación, ubicarte al lado del ánfora electoral (IMPRESCINDIBLE), para evitar que se introduzca en ella cualquier objeto que no sea una papeleta de sufragio.{0} Recuerda ser siempre amable y respetuoso con el jurado electoral y participar en cualquier acto de la mesa."
             },
             "item4": {
-              "titulo": "¿Qué cuidados debo tener antes de votar?",
-              "imagen": "ficha4-elector.jpg",
-              "descripcion": "El día de la elección todos/as debemos tomar en cuenta las siguientes recomendaciones y los protocolos de bioseguridad dispuestos por el Tribunal Supremo Electoral:{0} a. Antes de salir de casa, lleva contigo barbijo, guantes, alcohol en gel, tu documento de identidad, un bolígrafo y los implementos que creas necesarios.{0} b. Sal de casa y acude directamente a tu recinto entre las 08:00 y 12:30 si tu número de documento de identidad termina en 0, 1, 2, 3 o 4, y entre las 12:30 y 17:00 si tu número de documento termina en 5, 6, 7, 8 o 9.{0} c. Una vez llegues a tu recinto, revisa la lista de habilitados/as y el croquis para ubicación rápida de mesas de sufragio expuestos en la entrada, ingresa por la puerta o corredor habilitados y dirígete a tu mesa de sufragio. Si hubiera fila para votar, asegúrate de mantener al menos un metro y medio de distancia con quienes están en espera respetando las marcas de distanciamiento que habrán en el piso; no saludes ni converses si no es necesario.{0} d. Cuando sea tu turno, enseña a los/as jurados/as (no será necesario entregar) ambas caras de tu documento de identidad, pinta tu huella dactilar con tinta usando el cotonete desechable que te entreguen, firma e imprime tu huella en la lista electoral de la mesa y verifica que la papeleta que te entreguen este en blanco. Antes de votar los/as jurados rociarán alcohol en gel en tus manos.{0} *Referencias: Ley 026 art. 159, Res. TSE-RSP-ADM N° 175/2020."
+              "titulo": "¿Qué debes hacer durante la votación?",
+              "imagen": "ficha4-delegado.jpg",
+              "descripcion": "Como delegado/a de mesa, durante la votación:{0} 1) Permanece en la mesa de sufragio durante las 9 horas de votación. La votación debe iniciar a las 8 am y concluir a las 17:00 pm, o hasta que la última persona en la fila emita su voto.{0} 2) Verifica que cada elector muestre al presidente del jurado su CI y este corrobore su identidad y registro en la lista de habilitados de la mesa. En caso de diferencias de forma entre un CI  y la lista  índice (como cambio de una letra o presentación de un documento caduco) no se deberá impedir  el voto.{0} 3) Controla que cada elector asistente firme la lista de ciudadanos habilitados de la mesa, reciba una papeleta de sufragio en blanco, emita su voto sólo y en un espacio reservado, deposite su papeleta en el ánfora, pinte su dedo índice con la tinta y cotonete que el jurado le entregue y recoja su certificado de sufragio. {0} 4) Si antes de las 17:00 pm, de acuerdo a la lista de la mesa todos los habilitados emitieran su voto, el presidente de mesa podrá efectuar el cierre de la votación contando con tu presencia.{0} 5) Es también tu deber fiscalizar y apoyar el desarrollo de la votación denunciando ante el presidente de mesa a electores en estado ebriedad, que porten armas, que pretendan destruir  material  electoral, que falten el respeto a nuestros candidatos, personas que amenacen o sobornen a los electores o vulneren la transparencia, libertad y secreto del voto. El Presidente de mesa deberá registrar las denuncias en el acta electoral.{0} 6) También tienes derecho de solicitar al presidente de mesa que se anule un voto cuando un elector muestre su papeleta marcada o manifieste su preferencia, intente votar en más de una ocasión, deposite en el ánfora algo distinto a la papeleta entregada, emita su voto en presencia de otra persona (salvo voto asistido) o bajo amenazas o persuasión.{0} Debes estar atento y evitar que militantes o simpatizantes del MAS-IPSP incurran en cualquier circunstancia señalada en el punto 6)."
             },
             "item5": {
-              "titulo": "¿Qué pasos debo seguir para votar?",
-              "imagen": "ficha5-elector.jpg",
-              "descripcion": "Una vez los/as jurados/as te hayan entregado la papeleta de sufragio en blanco:{0} a. Ingresa solo/a a la cabina o espacio reservado para votar.{0} b. Abre la papeleta y usa tu bolígrafo para emitir tu voto. En la franja superior de la papeleta deberás votar por el/la presidente/a y en la inferior por el/la diputado/a uninominal o especial de tu circunscripción.{0} c. Dobla la papeleta y deposítala en el ánfora de la mesa.{0} Recuerda que tu voto es válido si marcas la casilla de un/a candidato/a con una x o check, es blanco cuando dejas sin marcar todas las casillas o nulo cuando rayas fuera de las casillas.{0} Sólo las personas con necesidades particulares pueden ingresar acompañadas por un/a familiar o jurado/a (nunca por un extraño, militar o policía) a la cabina o espacio reservado para emitir su voto.{0} Recuerda, tu elección es libre, en ningún caso puedes ni debes ser presionado o amenazado por fuerzas represivas (policías, militares, etc.) para votar o no votar por una opción específica. Si te sintieras amedrentado durante la votación graba la situación y denúnciala.{0} *Referencias: Ley 026 arts. 159, 160, 161."
+              "titulo": "¿Qué debes hacer después de la votación?",
+              "imagen": "ficha5-delegado.jpg",
+              "descripcion": "Cuando sean las 17:00 am, no habiendo personas en fila para votar, el presidente de mesa señalará públicamente que concluyó la votación para dar inicio al escrutinio de votos en presencia de los delegados presentes y misiones de observación. Como delegado/a de mesa deberás:{0} 1) Verificar que en el momento que se extraigan las papeletas del ánfora no quede ninguna en su interior.{0} 2) Constatar que el número de papeletas extraídas del ánfora sea igual al número de ciudadanos que emitieron el voto, según la lista de habilitados de la mesa. Si existiera diferencia entre el número de papeletas y la cantidad de ciudadanos que votaron de acuerdo a la lista, se debe a) verificar que todas las papeletas sean del órgano electoral (por eso es importante que el delegado las firme), las que no correspondan deberán ser anuladas o b) en caso que todas sean del órgano electoral, extraer el excedente al azar para su anulación. En ambos casos las papeletas deben permanecer cerradas."
             },
             "item6": {
-              "titulo": "¿Qué cuidados debo tener después de votar?",
-              "imagen": "ficha6-elector.jpg",
-              "descripcion": "Después de depositar la papeleta de sufragio en el ánfora:{0} a. Recibe tu certificado de sufragio del jurado/a presidente/a de mesa y retírate por la puerta o corredor habilitado para salida.{0} b. Al llegar a casa, desecha tus guantes y bolígrafo en una bolsa y ciérrala, asea tu ropa y desinfecta tus manos con alcohol en gel.{0} Recuerda, necesitarás tu certificado de sufragio para efectuar trámites bancarios, acceder a cargos públicos u obtener pasaporte por 90 días después de la elección.{0} *Referencias: Ley 026 arts. 144. 154, 159; Res. TSE-RSP-ADM N° 175/2020."
+              "titulo": "¿Qué tipos de votos existen?",
+              "imagen": "ficha6-delegado.jpg",
+              "descripcion": "Para el proceso de conteo debes tomar en cuenta los tipos de votos admitidos (art. 161, Ley 026):{0} 1) Voto válido: la papeleta contiene un signo, marca o señal visible que se encuentre dentro de la casilla correspondiente a un candidato.{0} 2) Voto blanco: en la papeleta no se marca por ninguna de las opciones.{0} 3) Voto nulo: cuando se utilice una papeleta diferente  a la oficial, la papeleta esté rota, incompleta o alterada en su impresión, presente  marcas en más de una franja partidaria o lleve palabras o signos que demuestren la voluntad  de anular el voto.{0} Para las elecciones 2020 cada papeleta tendrá dos filas; en la fila superior se votará por el presidente y en la inferior por el/la diputado/a uninominal de la circunscripción."
             },
             "item7": {
-              "titulo": "¿Cómo puedo cuidar mi voto?",
-              "imagen": "ficha7-elector.jpg",
-              "descripcion": "Los resultados de las mesas de votación registrados en las actas electorales son públicos y tienes derecho de conocerlos, verificarlos y controlarlos mediante los mecanismos habilitados por el OEP en su {1}.{0} Concluida la votación, las actas electorales de las mesas de sufragio serán escaneadas y publicadas paulatinamente en ese {2}; si deseas puedes descargar las actas, verificar la sumatoria de sus votos y cruzar esta información con la dispongas o hayas capturado por tu cuenta.{0} Tu voto vale y es tomado en cuenta, por eso es muy importante que conozcas el proceso de revisión y conteo que sigue tu voto; para conocer este proceso haz click {3}.{0} *Referencias: Ley 026 arts. 187, 191, 252.",
-              "link": {
-                "texto": "página web",
-                "url": "https://www.oep.org.bo/"
-              },
-              "link2": {
-                "texto": "portal",
-                "url": "https://www.oep.org.bo/"
-              },
-              "link3": {
-                "texto": "aquí",
-                "url": "https://cuidatuvoto.org/aprende-mas/computo-oficial"
-              }
+              "titulo": "¿Qué debes hacer durante el conteo de votos?",
+              "imagen": "ficha7-delegado.jpg",
+              "descripcion": "Este es el momento mas importante de la jornada, como delegado/a deberás defender cada voto a favor de nuestro binomio Lucho - David y nuestros/as candidatos/as a diputado/as uninominales.{0} Durante el conteo un jurado deberá abrir y mostrar una por una cada papeleta de sufragio declarando en voz alta a favor de quien se emitió el voto para presidente y para diputado/a (en ese orden), un segundo jurado deberá recibir las papeletas escrutadas y un tercer jurado deberá registrar a favor de quien se emitieron los votos en una hoja de trabajo o pizarra visibles. En caso de lectura incorrecta de algún voto puedes interrumpir el proceso y solicitar la corrección; es recomendable que grabes el proceso de conteo manteniendo siempre la atención.{0} Una vez finalizado el conteo público, debes verificar la información que el jurado secretario registre en el acta electoral de la mesa, incluyendo:{0} a) Número total de electores habilitados para votar.{0} b) Número de quienes emitieron su voto.{0} c) Número de votos válidos, votos blancos y votos nulos.{0} d) Número de votos válidos obtenidos por cada candidato y organización política (para presidente y diputado/a).{0} e) Apelaciones, observaciones u aclaraciones realizadas, en caso de errores o correcciones al acta.{0} En cumplimiento al art. 169 de la Ley 026 es deber del presidente de mesa leer en voz alta los datos registrados en el acta y exponerla a todos los presentes para confirmar que coincide con los resultados del conteo.{0} Recuerda que el art. 173 de la 026 señala que “el jurado electoral es la única autoridad competente para realizar, de manera definitiva el conteo de votos de la mesa de sufragio y ninguna autoridad revisará ni repetirá ese acto. Los resultados de las mesas registrados en las actas electorales son definitivos, con excepción de la existencia de causales de nulidad."
+            },
+            "item8": {
+              "titulo": "¿Qué apelaciones u observaciones puedes efectuar?",
+              "imagen": "ficha8-delegado.jpg",
+              "descripcion": "De acuerdo al art. 177 de la Ley 026, como delgado/a de mesa tienes la atribución de interponer ante los jurados electorales recursos de apelación al proceso de votación o acta electoral, solicitando su atención y registro en el acta en las siguientes circunstancias:{0} a) Cuando no existan las firmas y huellas dactilares de por los menos 3 jurados electorales en el acta.{0} b) Cuando se utilicen formularios de actas no aprobados por el Órgano Electoral.{0} c) Cuando la mesa hubiera funcionado en lugar o día distinto al señalado por el Órgano Electoral sin autorización.{0} d) Cuando existan datos registrados en el acta que sean contradictorios o inconsistentes entre si.{0} e) Cuando la papeleta de sufragio sea distinta a la circunscripción uninominal.{0} f) Cuando se registre un número de votos en el acta que supere la cantidad de personas inscritas en la mesa.{0} g) Cuando existan diferencias en los datos registrados en el acta original y sus copias."
+            },
+            "item9": {
+              "titulo": "¿Qué debes hacer cuando concluya el conteo?",
+              "imagen": "ficha9-delegado.jpg",
+              "descripcion": "Como delegado/a de mesa, una vez concluya el conteo de votos deberás:{0} 1) Verificar que la suma de votos válidos, nulos y blancos sea igual al número total de electores que emitieron su voto (registrados en la lista de habilitados de la mesa).{0} 2) Sacar fotografía de la hoja de trabajo o pizarra donde se realizó el conteo.{0} 3) Verificar que el acta electoral se haya llenado con letra imprenta y contenga datos/resultados coincidentes con los registrados en la hoja de trabajo o pizarra, aclaraciones a errores de llenado registradas en la casilla “OBSERVACIONES” y firmas y huellas de al menos 3 jurados: presidente, secretario y vocales.{0} 4) Sacar FOTOGRAFÍA AL ACTA ELECTORAL ORIGINAL al momento de firmarla. El acta es un documento público, nadie puede prohibir su fotografía, no debes permitir que te la impidan.{0} 5) Recabar la COPIA DEL ACTA ELECTORAL QUE CORRESPONDA AL MAS-IPSP.{0} 6) Controlar que el presidente de mesa introduzca en el SOBRE  de seguridad A, el acta electoral original, lista de habilitados, lista de inhabilitados y hojas de trabajo; en el SOBRE B, las papeletas de sufragio utilizadas; y en el SOBRE C, el material restante y constancia de reclamos de inhabilitados.{0} 8) Acompañar al presidente de mesa en la entrega de los 3 sobres de seguridad al notario electoral, quien deberá entregar un recibo (art. 172, Ley 026).{0} 9) Finalmente, deberás ENTREGAR AL JEFE DE RECINTO del MAS-IPSP la copia del acta de votación que recibiste. Con este acto concluye tu trabajo."
             }
           }
         },
